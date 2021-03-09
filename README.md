@@ -43,16 +43,14 @@ $ npm install
 # Crie um arquivo .env
 $ touch .env  
 
-# Adicione a ele as credenciais de login e senha 
-# e a porta que o backend irá rodar com as alias de:
+# Adicione a ele as credenciais de login e senha e a porta que o backend irá rodar com as alias de:
  INSTAUSER
  INSTASENHA
  PORT
 # Execute crawler
 $ node crawler.js
 
-# O Crawler irá iniciar, logar no instagram 
-# e começar a percorrer os perfils
+# O Crawler irá iniciar, logar no instagram e começar a percorrer os perfils
 ```
 ![demonstration](https://media.giphy.com/media/bOInJcMLu8xyaZhQF3/giphy.gif)
 
@@ -63,8 +61,7 @@ $ node crawler.js
 # Rode o servidor 
 $ node index.js
 
-# O servidor inciará na porta adicionada ao arquivo .env 
-# - acesse <http://localhost:PORT>
+# O servidor inciará na porta adicionada ao arquivo .env - acesse <http://localhost:PORT>
 ```
 ### Rodando o Front End
 
