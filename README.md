@@ -29,7 +29,7 @@ Bem como um editor de texto como o [VSCode](https://code.visualstudio.com/)
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/BBB_Follows>
+$ git clone <https://github.com/andradeigor/BBB_Follows>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd BBB_Follows
