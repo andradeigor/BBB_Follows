@@ -43,7 +43,7 @@ $ npm install
 # Crie um arquivo .env
 $ touch .env  
 
-# Adicione a ele as credenciais de login e senha e a porta que o backend irá rodar com as alias de:
+# Adicione as credenciais de login e senha e a porta que o backend irá rodar com as alias de:
  INSTAUSER
  INSTASENHA
  PORT
