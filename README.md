@@ -46,7 +46,7 @@ $ touch .env
 # Adicione as credenciais de login e senha e a porta que o backend irá rodar com as alias de:
  INSTAUSER
  INSTASENHA
- PORT
+ PORT #recomendo colocar 5000 pois foi a porta que eu usei e configurei o front para fazer o request
 # Execute crawler
 $ node crawler.js
 
